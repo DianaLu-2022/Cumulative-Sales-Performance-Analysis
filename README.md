@@ -32,7 +32,7 @@
 
 ## 檔案內容
 
-- 分析檔案：[業績主題的視覺化分析.mstr]([分析檔](https://github.com/DianaLu-2022/Cumulative-Sales-Performance-Analysis/blob/main/%E6%A5%AD%E7%B8%BE%E4%B8%BB%E9%A1%8C%E7%9A%84%E8%A6%96%E8%A6%BA%E5%8C%96%E5%88%86%E6%9E%90.mstr)https://github.com/DianaLu-2022/Cumulative-Sales-Performance-Analysis/blob/main/%E6%A5%AD%E7%B8%BE%E4%B8%BB%E9%A1%8C%E7%9A%84%E8%A6%96%E8%A6%BA%E5%8C%96%E5%88%86%E6%9E%90.mstr)
+- 分析檔案：[業績主題的視覺化分析.mstr](https://github.com/DianaLu-2022/Cumulative-Sales-Performance-Analysis/blob/main/%E6%A5%AD%E7%B8%BE%E4%B8%BB%E9%A1%8C%E7%9A%84%E8%A6%96%E8%A6%BA%E5%8C%96%E5%88%86%E6%9E%90.mstr)
 - 分析報告：[業績主題的視覺化分析.pdf](https://github.com/DianaLu-2022/Cumulative-Sales-Performance-Analysis/blob/main/%E6%A5%AD%E7%B8%BE%E4%B8%BB%E9%A1%8C%E7%9A%84%E8%A6%96%E8%A6%BA%E5%8C%96%E5%88%86%E6%9E%90.pdf)
 
 這個專案展示了我的數據分析和視覺化能力，以及對MicroStrategy等工具的熟悉程度。我期待能有機會進一步討論和展示我的技能。
